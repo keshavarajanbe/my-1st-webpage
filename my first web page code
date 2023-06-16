@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome Greeting</title>
+  <style>
+body {
+background-color: yellow;}
+.animated-gradient-text_foreground__kb6tN {
+    
+  
+   
+    position: relative;
+    z-index: 1;}
+h1 {
+font-size: 100px;}
+
+
+  </style>
+</head>
+<body>
+  <h1>JS</h1>
+  <p>Thank you for visiting our website.</p>
+<span class="animated-gradient-text_background__OCnk0 animated-gradient-text_background-1__c2kfC" style="--content:'Develop.';--padding:0.05em;--start-color:var(--develop-start-gradient);--end-color:var(--develop-end-gradient)"><span class="animated-gradient-text_foreground__kb6tN animated-gradient-text_foreground-1__gqHrR">Develop.</span></span>
+<a href="https://vercel.com/">link</a>
+  
+
+</body>
+</html>
